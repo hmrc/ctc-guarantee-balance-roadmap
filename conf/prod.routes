@@ -1,0 +1,4 @@
+->      /                                                  health.Routes
+GET     /guides/ctc-guarantee-balance-roadmap           controllers.Default.redirect(to = "/guides/ctc-guarantee-balance-roadmap/")
+GET     /guides/ctc-guarantee-balance-roadmap/          controllers.Assets.at(path="/public", file="index.html")
+GET     /guides/ctc-guarantee-balance-roadmap/*file     controllers.Assets.at(path="/public", file)
