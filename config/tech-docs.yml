@@ -2,7 +2,7 @@
 service_name: CTC Guarantee Balance Roadmap
 
 # The route that will be used to access this site (with tailing slash)
-service_link: /guides/ctc-guarantee-balance-roadmap/
+service_link: /roadmaps/ctc-guarantee-balance-roadmap/
 
 # ================================================
 # You shouldn't need to edit anything below here
