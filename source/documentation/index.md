@@ -1,6 +1,7 @@
 ---
-title: Example Service Guide
+title: CTC Guarantee Balance API roadmap
 weight: 1
+description: Software developers, designers, product owners or business analysts - see how you can integrate your software with Common Transit Convention Guarantee Balance API.
 ---
 
 # CTC Guarantee Balance API roadmap
