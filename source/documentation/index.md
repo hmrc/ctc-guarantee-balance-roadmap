@@ -1,12 +1,16 @@
 ---
-title: Example Service Guide
+title: CTC Guarantee Balance API roadmap
 weight: 1
+description: Software developers, designers, product owners or business analysts - see how you can integrate your software with Common Transit Convention Guarantee Balance API.
 ---
 
 # CTC Guarantee Balance API roadmap
 
-Last updated: September 2023
+Last updated: October 2023
+
 ## NCTS5
+
+For information about key NCTS5 dates, see [NCTS phase 5 technical interface specification](/guides/ctc-traders-phase5-tis/#ncts5-key-dates).
 
 ### What we’re working on now
 
@@ -14,12 +18,13 @@ CTC Guarantee Balance API v2.0 is feature complete and we do not currently plan 
 
 ### Updates
 
-CTC Guarantee Balance API v2.0 will not be ready for use in production until NCTS5 goes live on 16 November 2023.
+CTC Guarantee Balance API v2.0 will not be ready for use in production until the UK NCTS5 service goes live.
 
 ### Related documentation
 
 - [CTC Guarantee Balance API v2.0 documentation](/api-documentation/docs/api/service/common-transit-convention-guarantee-balance/2.0)
 - [CTC Guarantee Balance API phase 5 service guide](/guides/ctc-guarantee-balance-phase5-service-guide/) | [Changelog](https://github.com/hmrc/ctc-guarantee-balance-phase5-service-guide/wiki/CTC-Guarantee-Balance-API-phase-5-service-guide-changelog)
+- [CTC Guarantee Balance API phase 5 testing guide](/guides/ctc-guarantee-balance-phase5-testing-guide/) | [Changelog](https://github.com/hmrc/ctc-guarantee-balance-phase5-testing-guide/wiki/CTC-Guarantee-Balance-API-phase-5-testing-guide-changelog)
 
 ## NCTS4
 
@@ -29,7 +34,7 @@ CTC Guarantee Balance API v1.0 is feature complete and we do not currently plan 
 
 ### Updates
 
-CTC Guarantee Balance API v1.0 will be withdrawn soon after CTC Guarantee Balance API v2.0 goes live on 16 November 2023. We will tell you the exact date nearer the time.
+CTC Guarantee Balance API v1.0 will be withdrawn soon after the UK NCTS5 service goes live. We will tell you the exact date nearer the time.
 
 ### Related documentation
 
