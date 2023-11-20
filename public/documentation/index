@@ -1,0 +1,36 @@
+<h1 id="ctc-guarantee-balance-api-roadmap">CTC Guarantee Balance API roadmap</h1>
+
+<p>Last updated: October 2023</p>
+<h2 id="ncts5">NCTS5</h2>
+
+<p>For information about key NCTS5 dates, see <a href="/guides/ctc-traders-phase5-tis/#ncts5-key-dates" rel="noopener noreferrer">NCTS phase 5 technical interface specification</a>.</p>
+<h3 id="what-we-re-working-on-now">What we’re working on now</h3>
+
+<p>CTC Guarantee Balance API v2.0 is feature complete and we do not currently plan to add any more new features to the API. However, some of the existing features of the API might be enhanced, so you should review the <a href="https://github.com/hmrc/common-transit-convention-guarantee-balance/wiki/CTC-Guarantee-Balance-API-v2.0-changelog" rel="noopener noreferrer">CTC Guarantee Balance API v2.0 changelog</a> on GitHub regularly.</p>
+<h3 id="updates">Updates</h3>
+
+<p>CTC Guarantee Balance API v2.0 will not be ready for use in production until the UK NCTS5 service goes live.</p>
+<h3 id="related-documentation">Related documentation</h3>
+
+
+<ul>
+<li><a href="/api-documentation/docs/api/service/common-transit-convention-guarantee-balance/2.0" rel="noopener noreferrer">CTC Guarantee Balance API v2.0 documentation</a></li>
+<li><a href="/guides/ctc-guarantee-balance-phase5-service-guide/" rel="noopener noreferrer">CTC Guarantee Balance API phase 5 service guide</a> | <a href="https://github.com/hmrc/ctc-guarantee-balance-phase5-service-guide/wiki/CTC-Guarantee-Balance-API-phase-5-service-guide-changelog" rel="noopener noreferrer">Changelog</a></li>
+<li><a href="/guides/ctc-guarantee-balance-phase5-testing-guide/" rel="noopener noreferrer">CTC Guarantee Balance API phase 5 testing guide</a> | <a href="https://github.com/hmrc/ctc-guarantee-balance-phase5-testing-guide/wiki/CTC-Guarantee-Balance-API-phase-5-testing-guide-changelog" rel="noopener noreferrer">Changelog</a></li>
+</ul>
+<h2 id="ncts4">NCTS4</h2>
+
+<h3 id="ncts4-what-we-re-working-on-now">What we’re working on now</h3>
+
+<p>CTC Guarantee Balance API v1.0 is feature complete and we do not currently plan to make any changes to the API.</p>
+<h3 id="ncts4-updates">Updates</h3>
+
+<p>CTC Guarantee Balance API v1.0 will be withdrawn soon after the UK NCTS5 service goes live. We will tell you the exact date nearer the time.</p>
+<h3 id="ncts4-related-documentation">Related documentation</h3>
+
+
+<ul>
+<li><a href="/api-documentation/docs/api/service/common-transit-convention-guarantee-balance/1.0" rel="noopener noreferrer">CTC Guarantee Balance API v1.0 documentation</a></li>
+<li><a href="/guides/ctc-guarantee-balance-service-guide/" rel="noopener noreferrer">CTC Guarantee Balance API phase 4 service guide</a></li>
+<li><a href="/guides/ctc-guarantee-balance-testing-guide/" rel="noopener noreferrer">CTC Guarantee Balance API phase 4 testing guide</a></li>
+</ul>
