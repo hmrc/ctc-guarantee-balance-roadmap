@@ -10,7 +10,7 @@ Last updated: November 2023
 
 ## NCTS5
 
-For information about key NCTS5 dates, see [NCTS phase 5 technical interface specification](/guides/ctc-traders-phase5-tis/#ncts5-key-dates).
+[Learn about key NCTS5 dates](/guides/ctc-traders-phase5-tis/#ncts5-key-dates).
 
 ### What we’re working on now
 
