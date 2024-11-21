@@ -20,17 +20,6 @@
 </ul>
 <h2 id="ncts4">NCTS4</h2>
 
-<h3 id="ncts4-what-we-re-working-on-now">What we’re working on now</h3>
+<h3 id="ncts4-notice">Notice</h3>
 
-<p>CTC Guarantee Balance API v1.0 is feature complete and we do not currently plan to make any changes to the API.</p>
-<h3 id="ncts4-updates">Updates</h3>
-
-<p>CTC Guarantee Balance API v1.0 will be withdrawn soon after the UK NCTS5 service goes live. We will tell you the exact date nearer the time.</p>
-<h3 id="ncts4-related-documentation">Related documentation</h3>
-
-
-<ul>
-<li><a href="/api-documentation/docs/api/service/common-transit-convention-guarantee-balance/1.0" rel="noopener noreferrer">CTC Guarantee Balance API v1.0 documentation</a></li>
-<li><a href="/guides/ctc-guarantee-balance-service-guide/" rel="noopener noreferrer">CTC Guarantee Balance API phase 4 service guide</a></li>
-<li><a href="/guides/ctc-guarantee-balance-testing-guide/" rel="noopener noreferrer">CTC Guarantee Balance API phase 4 testing guide</a></li>
-</ul>
+<p>This API is deprecated and will no longer be supported. Please refer to the roadmap for updates and transition to newer versions or alternative APIs as recommended.</p>
