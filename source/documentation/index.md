@@ -31,16 +31,6 @@ CTC Guarantee Balance API v2.0 will not be ready for use in production until the
 
 ## NCTS4
 
-### What we’re working on now
+### Notice
 
-[CTC Guarantee Balance API v1.0](/api-documentation/docs/api/service/common-transit-convention-guarantee-balance/1.0) is feature complete and we do not currently plan to make any changes to the API.
-
-### Updates
-
-CTC Guarantee Balance API v1.0 will be withdrawn soon after the UK NCTS5 service goes live. We will tell you the exact date nearer the time.
-
-### Related documentation
-
-- [CTC Guarantee Balance API v1.0 reference](https://developer.service.hmrc.gov.uk/api-documentation/docs/api/service/common-transit-convention-guarantee-balance/1.0/oas/page)
-- [CTC Guarantee Balance API phase 4 service guide](/guides/ctc-guarantee-balance-service-guide/)
-- [CTC Guarantee Balance API phase 4 testing guide](/guides/ctc-guarantee-balance-testing-guide/)
+This API is deprecated and will no longer be supported. Please refer to the roadmap for updates and transition to newer versions or alternative APIs as recommended.
